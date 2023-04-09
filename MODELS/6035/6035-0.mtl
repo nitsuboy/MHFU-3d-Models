@@ -1,0 +1,147 @@
+newmtl texture00
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6035-000.png
+map_Kd 6035-000.png
+newmtl texture01
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6035-001.png
+map_Kd 6035-001.png
+newmtl texture02
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6035-002.png
+map_Kd 6035-002.png
+newmtl texture03
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6035-003.png
+map_Kd 6035-003.png
+newmtl texture04
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6035-004.png
+map_Kd 6035-004.png
+newmtl texture05
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6035-005.png
+map_Kd 6035-005.png
+newmtl texture06
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6035-006.png
+map_Kd 6035-006.png
+newmtl texture07
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6035-007.png
+map_Kd 6035-007.png
+newmtl texture08
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6035-008.png
+map_Kd 6035-008.png
+newmtl texture09
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6035-009.png
+map_Kd 6035-009.png
+newmtl texture10
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6035-010.png
+map_Kd 6035-010.png
+newmtl texture11
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6035-011.png
+map_Kd 6035-011.png
+newmtl texture12
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6035-012.png
+map_Kd 6035-012.png
+newmtl texture13
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6035-013.png
+map_Kd 6035-013.png
+newmtl texture14
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6035-014.png
+map_Kd 6035-014.png
+newmtl texture15
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6035-015.png
+map_Kd 6035-015.png
+newmtl texture16
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6035-016.png
+map_Kd 6035-016.png
+newmtl texture17
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6035-017.png
+map_Kd 6035-017.png
+newmtl texture18
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6035-018.png
+map_Kd 6035-018.png
+newmtl texture19
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6035-019.png
+map_Kd 6035-019.png
+newmtl texture20
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6035-020.png
+map_Kd 6035-020.png

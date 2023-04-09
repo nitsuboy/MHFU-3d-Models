@@ -1,0 +1,231 @@
+newmtl texture00
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6075-000.png
+map_Kd 6075-000.png
+newmtl texture01
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6075-001.png
+map_Kd 6075-001.png
+newmtl texture02
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6075-002.png
+map_Kd 6075-002.png
+newmtl texture03
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6075-003.png
+map_Kd 6075-003.png
+newmtl texture04
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6075-004.png
+map_Kd 6075-004.png
+newmtl texture05
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6075-005.png
+map_Kd 6075-005.png
+newmtl texture06
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6075-006.png
+map_Kd 6075-006.png
+newmtl texture07
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6075-007.png
+map_Kd 6075-007.png
+newmtl texture08
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6075-008.png
+map_Kd 6075-008.png
+newmtl texture09
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6075-009.png
+map_Kd 6075-009.png
+newmtl texture10
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6075-010.png
+map_Kd 6075-010.png
+newmtl texture11
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6075-011.png
+map_Kd 6075-011.png
+newmtl texture12
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6075-012.png
+map_Kd 6075-012.png
+newmtl texture13
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6075-013.png
+map_Kd 6075-013.png
+newmtl texture14
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6075-014.png
+map_Kd 6075-014.png
+newmtl texture15
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6075-015.png
+map_Kd 6075-015.png
+newmtl texture16
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6075-016.png
+map_Kd 6075-016.png
+newmtl texture17
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6075-017.png
+map_Kd 6075-017.png
+newmtl texture18
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6075-018.png
+map_Kd 6075-018.png
+newmtl texture19
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6075-019.png
+map_Kd 6075-019.png
+newmtl texture20
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6075-020.png
+map_Kd 6075-020.png
+newmtl texture21
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6075-021.png
+map_Kd 6075-021.png
+newmtl texture22
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6075-022.png
+map_Kd 6075-022.png
+newmtl texture23
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6075-023.png
+map_Kd 6075-023.png
+newmtl texture24
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6075-024.png
+map_Kd 6075-024.png
+newmtl texture25
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6075-025.png
+map_Kd 6075-025.png
+newmtl texture26
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6075-026.png
+map_Kd 6075-026.png
+newmtl texture27
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6075-027.png
+map_Kd 6075-027.png
+newmtl texture28
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6075-028.png
+map_Kd 6075-028.png
+newmtl texture29
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6075-029.png
+map_Kd 6075-029.png
+newmtl texture30
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6075-030.png
+map_Kd 6075-030.png
+newmtl texture31
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6075-031.png
+map_Kd 6075-031.png
+newmtl texture32
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka 6075-032.png
+map_Kd 6075-032.png
