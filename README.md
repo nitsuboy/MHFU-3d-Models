@@ -6,9 +6,4 @@ some of the models are with wrong normals or just straight up corrupted, and dos
 
 nothing that blender and some time cant do.
 
-char | legs | helms | chests | arms | waist | weapons 
- --- | --- | --- | --- | --- | --- |---
-78 .. 79 | 83 .. 394 | 395 .. 766 | 767 .. 1106 | 1107 .. 1439 | 1441 .. 1735 | 3409 .. 3961  
-
-
 i recomend [F3D](https://f3d.app/) to get a quick view of all models
